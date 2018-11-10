@@ -1,2 +1,2 @@
 # CS61A
-Structure and Interpretation of Computer Programs
+This course is Structure and Interpretation of Computer Programs taught at UC Berkeley
